@@ -1,4 +1,4 @@
-DELETE FROM `creature` WHERE (`id1` = 441153);
+DELETE FROM `creature` WHERE (`id` = 441153);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
 (3110700, 441153, 13, 0, 0, 1, 1, 0, 43.5145, 0.970674, -144.709, 1.84523, 300, 0, 0, 328, 0, 0, 0, 0, 0, '', NULL, 0, NULL),
 (3110705, 441153, 530, 0, 0, 1, 1, 0, -1846.06, 5439.11, -12.4277, 0.56548, 300, 0, 0, 3052, 0, 0, 0, 0, 0, '', NULL, 0, NULL),
